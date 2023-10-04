@@ -1,0 +1,11 @@
+.active {
+    background-color: #ffc451;
+}
+
+.active-text {
+    color: #ffc451;
+}
+
+.border-active {
+    border: 3px solid rgb(255, 196, 81);
+}

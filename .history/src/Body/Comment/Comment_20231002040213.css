@@ -1,0 +1,34 @@
+    .comment-container {
+        background-attachment: fixed;
+        background-position: center;
+        background-size: cover;
+        text-align: center;
+        margin: 5rem 0;
+        padding: 5rem 3rem;
+        background-image: linear-gradient(to top, rgba(1, 1, 1, 0.534), black), url(https://hivalearn.ir/templates/kasuka/assets/img/testimonials-bg.jpg);
+    }
+    
+    .comment-container img {
+        border-radius: 50%;
+        border: 5px solid rgba(255, 255, 255, 0.431);
+        -webkit-border-radius: 50%;
+        -moz-border-radius: 50%;
+        -ms-border-radius: 50%;
+        -o-border-radius: 50%;
+    }
+    
+    .text-comment {
+        color: #ddd;
+        padding: 0 18rem;
+    }
+    
+    .text-comment p {
+        color: #ddd;
+        padding: 1.2rem 0;
+    }
+    
+    @media only screen and (max-width: 900px) {
+        .text-comment {
+            padding: 0 0.5rem;
+        }
+    }

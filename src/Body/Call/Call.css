@@ -1,0 +1,9 @@
+.sub-form {
+    padding: 0.5rem 1.2rem;
+    font-size: 1.2rem;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}

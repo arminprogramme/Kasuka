@@ -1,0 +1,8 @@
+.services h5::after {
+    content: '';
+    display: inline-block;
+    width: 7rem !important;
+    margin: 0 0.5rem;
+    height: 2.5px !important;
+    background-color: #ffc451;
+}
