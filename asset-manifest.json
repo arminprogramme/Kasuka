@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Kasuka/static/css/main.db362111.css",
+    "main.js": "/Kasuka/static/js/main.51c23d28.js",
+    "static/js/787.69f8b555.chunk.js": "/Kasuka/static/js/787.69f8b555.chunk.js",
+    "index.html": "/Kasuka/index.html",
+    "main.db362111.css.map": "/Kasuka/static/css/main.db362111.css.map",
+    "main.51c23d28.js.map": "/Kasuka/static/js/main.51c23d28.js.map",
+    "787.69f8b555.chunk.js.map": "/Kasuka/static/js/787.69f8b555.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db362111.css",
+    "static/js/main.51c23d28.js"
+  ]
+}
